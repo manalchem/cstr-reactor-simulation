@@ -18,5 +18,6 @@ Models a Continuous Stirred Tank Reactor (CSTR) for ethylene oxide production us
 ## Tools
 Python · NumPy · Matplotlib · Google Colab
 
-## Author
-Manal — Chemical Engineering Student
+
+**Manal**
+| Chemical Engineering Student | github.com/manalchem
